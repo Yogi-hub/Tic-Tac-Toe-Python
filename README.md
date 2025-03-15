@@ -31,7 +31,6 @@ Follow the on-screen instructions to enter your move by selecting a number corre
 
 ## Example Board Layout
 ```
- | | 
  1 | 2 | 3 
 ---|---|---
  4 | 5 | 6 
